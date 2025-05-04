@@ -23,4 +23,5 @@ Visualización de la clasificación.
 
 Autores: 
 - Arenas, Cristian
-- 
+- Banegas, Jorgelina
+- Marín, Natalia
